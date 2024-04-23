@@ -71,4 +71,24 @@
     font-weight: 900;
     font-style: italic;
   }
+
+  .upper-container, footer {
+    background-color: #1F2937;
+  }
+
+  ul {
+    list-style-type: none;
+    /* REMOVE DEFAULT STYLING */
+    padding: 0;
+    margin: 0;
+  }
   
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+  }
